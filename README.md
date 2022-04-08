@@ -10,4 +10,6 @@ Developed a Tableau Dashboard consisting of details of neighbour restaurants lis
 
 ![image](https://user-images.githubusercontent.com/98142436/162381807-6392a0ef-0e0e-40a6-a8b3-c5616b10146d.png)
 
+Link to Tableau Public: https://public.tableau.com/app/profile/siddharth.singh3810/viz/LocalRestaurantsInsightsfromZomato/Dashboard1
+
 
